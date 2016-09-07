@@ -14,7 +14,9 @@ html
 body
 { font: normal 80% Arial, Helvetica, sans-serif;
   color: #FFF;
-  background: transparent url(../images/background.jpg) repeat;
+  background: url("https://www.merriammusic.com/file/2015/07/sheet-music-background.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 /* tell the browser to render HTML 5 elements as block */
