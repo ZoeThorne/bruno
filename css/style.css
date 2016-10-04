@@ -56,7 +56,7 @@ h5, h6
   padding-bottom: 15px;}
   
 span
-{ color: #1A6FFD;}
+{ color: #d3dced;}
 
 a, a:hover
 { color: #FFF;
@@ -104,10 +104,10 @@ nav
   height: 50px;
   text-align: center; 
   margin: 0 auto;
-  background: #0043A8;
-  background: -moz-linear-gradient(#43A9FF, #0043A8);
-  background: -o-linear-gradient(#43A9FF, #0043A8);
-  background: -webkit-linear-gradient(#43A9FF, #0043A8);
+  background: #959da8;
+  background: -moz-linear-gradient(#43A9FF, ##959da8);
+  background: -o-linear-gradient(#43A9FF, ##959da8);
+  background: -webkit-linear-gradient(#43A9FF, ##959da8);
   border-radius: 7px 7px 0px 0px;
   -moz-border-radius: 7px 7px 0px 0px;
   -webkit-border: 7px 7px 0px 0px;} 
@@ -167,7 +167,7 @@ ul#nav li a
   
 ul#nav li.current a
 { color: #FFF;
-  background: #43A9FF;
+  background: #8c95a3;
   background: -moz-linear-gradient(#43A9FF, #0043A8);
   background: -o-linear-gradient(#43A9FF, #0043A8);
   background: -webkit-linear-gradient(#43A9FF, #0043A8);  
